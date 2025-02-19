@@ -1,5 +1,5 @@
 # Coder Orbit API Installation Process
-For API documentation please visit our website [Coder Orbit Documentation](https://coderorbit.com/Ecommerce/Backend)
+For API documentation please visit our website [Coder Orbit Documentation](https://coderorbit.com)
 
 For App token, create a app using this token in .env
 
